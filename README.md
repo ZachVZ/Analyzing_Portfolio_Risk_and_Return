@@ -21,7 +21,7 @@ Open a new Git Bash and type the below command into your conda dev environment:
 
 jupyter lab
 
-then hit the ENTER key to run
+* then hit the ENTER key to run
 
 
 ## Required Imports
