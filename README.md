@@ -12,18 +12,17 @@ Below are the four analysis that will be performed in this notebook:
 
 ## Installation Guide and Running Jupyter Notebook
 Installing Jupyter notebook
-On the terminal, under the conda dev environment, type the code below:
+* On the terminal (Git Bash) under the conda dev environment, type the code below:
 
 pip install jupyterlab
----
 
-Opening Jupyter notebook
-If you have Jupyter Lab already installed, to open your Notebook, please type this while on your conda dev environment:
+* To open the Jupyter notebook
+Open a new Git Bash and type the below command into your conda dev environment:
 
 jupyter lab
 
-Once you click ENTER, this will open on your default browser.
----
+then hit the ENTER key to run
+
 
 ## Required Imports
 * pandas - data manipulation and analysis
