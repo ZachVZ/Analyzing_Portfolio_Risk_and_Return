@@ -7,10 +7,10 @@ Below are the four analysis that will be performed in this notebook:
 4. Analyze the Risk-Return Profile
 
 ## Technologies Require
-*This project leverages python version 3.8.5
-*Project will be accomplished in JupyterLab
+* This project leverages python version 3.8.5
+* Project will be accomplished in JupyterLab
 
-##Installation Guide and Running Jupyter Notebook
+## Installation Guide and Running Jupyter Notebook
 Installing Jupyter notebook
 On the terminal, under the conda dev environment, type the code below:
 
@@ -29,7 +29,7 @@ Once you click ENTER, this will open on your default browser.
 * pandas - data manipulation and analysis
 * Path from pathlib - import CSV files
 * %matplotlib inline - assist in building plots and visuals
-*numpy - calculating  square roots
+* numpy - calculating  square roots
 
 ## Install Guide
 * import pandas as pd
